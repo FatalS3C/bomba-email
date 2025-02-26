@@ -2,3 +2,7 @@
 versao
 BOMBAMAIL.png
 README.md
+*.log
+*.bak
+*.swp
+.DS_Store
